@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/luochongfei/auto-release-demo.git"
   },
-  "keywords": ["semantic-release demo", "auto github release"],
+  "keywords": [
+    "semantic-release demo",
+    "auto github release"
+  ],
   "author": "luochongfei",
   "license": "MIT",
   "bugs": {
