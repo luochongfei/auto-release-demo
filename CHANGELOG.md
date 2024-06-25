@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/luochongfei/auto-release-demo/compare/v1.0.0...v1.1.0) (2024-06-25)
+
+
+### Features
+
+* **index.js:** 修改首页 ([3625ce6](https://github.com/luochongfei/auto-release-demo/commit/3625ce6baefd9c6fe5a367e0560045b1ec64acc3))
+
 # 1.0.0 (2021-04-22)
 
 

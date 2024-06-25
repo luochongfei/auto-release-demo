@@ -1,6 +1,6 @@
 {
   "name": "auto-release-demo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "自动打tag和release 示例",
   "main": "index.js",
   "scripts": {
