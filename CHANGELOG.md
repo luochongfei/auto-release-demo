@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/luochongfei/auto-release-demo/compare/v1.2.0...v1.3.0) (2024-06-25)
+
+
+### Features
+
+* **index.js:** index2222 ([d2af507](https://github.com/luochongfei/auto-release-demo/commit/d2af5072c4340c4187e2e2d89681ef01a7c5ea02))
+
 # [1.2.0](https://github.com/luochongfei/auto-release-demo/compare/v1.1.0...v1.2.0) (2024-06-25)
 
 
